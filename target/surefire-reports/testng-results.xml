@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="174" started-at="2019-04-25T22:35:55Z" finished-at="2019-04-25T22:35:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="174" started-at="2019-04-25T22:35:55Z" finished-at="2019-04-25T22:35:55Z">
+      <class name="QAclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="API()[pri:0, instance:QAclickacademy.RESTAPITest@7946e1f4]" name="API" duration-ms="2" started-at="2019-04-25T22:35:55Z" finished-at="2019-04-25T22:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API -->
+        <test-method status="PASS" signature="APItest()[pri:0, instance:QAclickacademy.RESTAPITest@7946e1f4]" name="APItest" duration-ms="0" started-at="2019-04-25T22:35:55Z" finished-at="2019-04-25T22:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APItest -->
+      </class> <!-- QAclickacademy.RESTAPITest -->
+      <class name="QAclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Selenium()[pri:0, instance:QAclickacademy.SeleniumTest@6276ae34]" name="Selenium" duration-ms="30" started-at="2019-04-25T22:35:55Z" finished-at="2019-04-25T22:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium -->
+        <test-method status="PASS" signature="Seleniumtest()[pri:0, instance:QAclickacademy.SeleniumTest@6276ae34]" name="Seleniumtest" duration-ms="1" started-at="2019-04-25T22:35:55Z" finished-at="2019-04-25T22:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest -->
+      </class> <!-- QAclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
