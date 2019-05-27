@@ -12,6 +12,8 @@ public class RESTAPITest {
 	@Test
 	public void API() {
 		System.out.println("APITest2");
+		System.out.println("APITest9");
+		System.out.println("APITest0");
 	}
 
 }
