@@ -17,5 +17,11 @@ public class RESTAPITest {
 		System.out.println("APITest9");
 		System.out.println("APITest0");
 	}
+	
+	@Test
+	public void Time() {
+		System.out.println("Time1");
+		System.out.println("Time2");
+	}
 
 }

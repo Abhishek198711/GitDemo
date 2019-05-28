@@ -14,5 +14,11 @@ public class SeleniumTest {
 		System.out.println("Selenium 2");
 		System.out.println("Selenium 3");
 	}
+	
+	@Test
+	public void Seleniumtest1() {
+		System.out.println("SeleChrome");
+		System.out.println("SeleFire");
+	}
 
 }
